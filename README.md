@@ -7,3 +7,5 @@ This tutorial is dedicated to create an animation based on input image and voice
 Two important moments:
 1. Make sure that image size is 256x256
 2. Input audio format should be .wav
+
+You can generate AI audio with using [this](https://ttsmp3.com/) link. 
