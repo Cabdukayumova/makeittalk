@@ -9,3 +9,5 @@ Two important moments:
 2. Input audio format should be .wav
 
 You can generate AI audio with using [this](https://ttsmp3.com/) link. 
+
+For more info look at the original resource [here](https://github.com/yzhou359/MakeItTalk)
